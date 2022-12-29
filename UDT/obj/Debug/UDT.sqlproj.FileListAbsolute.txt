@@ -1,0 +1,10 @@
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\bin\Debug\UDT.dacpac
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\bin\Debug\UDT.dll
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\bin\Debug\UDT.pdb
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\obj\Debug\UDT.sqlproj.AssemblyReference.cache
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\obj\Debug\Model.xml
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\obj\Debug\refactor.xml
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\obj\Debug\postdeploy.sql
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\obj\Debug\predeploy.sql
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\obj\Debug\UDT.dll
+C:\Users\nebojsa.marjanovic\source\repos\Baze3Projekat\Baze3Projekat\UDT\obj\Debug\UDT.pdb

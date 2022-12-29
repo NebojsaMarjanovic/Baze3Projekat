@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\Forms\FrmAddOsnovnoSredstvo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmAddStavkaOtpremnice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmAddStavkaRacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmAddOtpremnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmPrikaziTipOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmUpdateOsnovnoSredstvo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmUpdateOtpremnicu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmUpdateRacun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmUpdateStavkaOtpremnice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\FrmUpdateStavkaRacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\UserControlls\UCAddDobavljac.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UserControlls\UCPrikaziDobavljace.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UserControlls\UCAddRacun.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UserControlls\UCPrikaziOsnovnaSredstva.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UserControlls\UCPrikaziOtpremnice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UserControlls\UCPrikaziRacune.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UserControlls\UCPrikaziStavkeOtpremnica.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UserControlls\UCPrikaziZaposlene.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
